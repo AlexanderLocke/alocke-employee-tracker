@@ -13,7 +13,8 @@
 ## Description 
 This is simple database management system or content management system (CMS) accesed by the command line. It is modeling an employee tracking database with departments, roles and employees. Users are able to manage the various tables through command line prompts. This application uses Node.js, Inquirer and MySQL.
 
-[![Link to video](https://img.youtube.com/watch?v=fZZM2AxPE-c&ab_channel=AlexL/2)](https://youtu.be/fZZM2AxPE-c)
+[![Link to video](https://img.youtube.com/vi/fZZM2AxPE-c/maxresdefault.jpg)](https://youtu.be/fZZM2AxPE-c)
+
 
 ## Installation 
 Clone the repo or fork.
