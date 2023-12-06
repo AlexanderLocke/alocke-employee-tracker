@@ -11,15 +11,15 @@
 * [Questions](#questions)
 
 ## Description 
-This is a simple note taking app where users can write notes with a title and description. Users can then view their previously saved notes and delete them if desired.
+This is simple database management system or content management system (CMS) accesed by the command line. It is modeling an employee tracking database with departments, roles and employees. Users are able to manage the various tables through command line prompts. This application uses Node.js, Inquirer and MySQL.
 
-![img](/images/screenshot.jpg)
+[![Link to video](https://img.youtube.com/watch?v=fZZM2AxPE-c&ab_channel=AlexL/2)](https://youtu.be/fZZM2AxPE-c)
 
 ## Installation 
-It is deployed on Heroku using this [link](https://pacific-brook-25197-d0fc69eb5a13.herokuapp.com/notes). You can also clone the repo and run it locally.
+Clone the repo or fork.
 
 ## Usage 
-Navigate to the root folder and run npm install. Once the packages are installed run node server.js and navigate to localhost:3001 in your browser to use the app.
+Navigate to the root folder and run npm install. Once the packages are installed run node server.js and follow the command line prompts.
 
 ## Contributing 
 open-source
